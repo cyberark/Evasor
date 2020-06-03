@@ -1,14 +1,7 @@
 # Overview
 
 The Evasor is an automated security assessment tool which locates  existing executables on the Windows operating system that can be used to bypass any Application Control rules.
-It is very easy to use, quick, saves time and fully automated which generates for you a report including description, screenshots and mitigations suggestions, suites for both blue and red teams in the assessment of a post-exploitation phase.
-
-# Notes
-* The original code developed and being used on our CyberArk Labs internaly, makes full automation and exploitation of the informative results.
-* The original code contains part of activation and exploitation but we removed it from here. 
-* The files content here are empty and not contains any exploitation code also:
-<img src="https://github.com/cyberark/Evasor/blob/master/project-tree-4.png" width="1000">
-And it's for the Cyber Security community Red and Blue teams to be used and to be implemented according to their own needs and can be a starting point for their assessment objectives.     
+It is very easy to use, quick, saves time and fully automated which generates for you a report including description, screenshots and mitigations suggestions, suites for both blue and red teams in the assessment of a post-exploitation phase. 
 
 ## Requirements
 
@@ -56,3 +49,9 @@ This repository is licensed under Apache License 2.0 - see [`LICENSE`](LICENSE) 
 ## Share Your Thoughts And Feedback
 
 For more comments, suggestions or questions, you can contact Arik Kublanov from CyberArk Labs. You can find more projects developed by us in https://github.com/cyberark/.
+
+
+# Notes
+* The original code developed and being used on our CyberArk Labs internaly, makes full automation and exploitation of the informative results.
+* The original code contains part of activation and exploitation but we removed it from here. 
+* The files content under the DLLs folder are empty and not contains any exploitation code also and it's for the Cyber Security community Red and Blue teams to be used and to be implemented according to their own needs and can be a starting point for their assessment objectives.  
