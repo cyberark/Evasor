@@ -3,6 +3,10 @@
 The Evasor is an automated security assessment tool which locates  existing executables on the Windows operating system that can be used to bypass any Application Control rules.
 It is very easy to use, quick, saves time and fully automated which generates for you a report including description, screenshots and mitigations suggestions, suites for both blue and red teams in the assessment of a post-exploitation phase.
 
+# notes:
+* The original code developed and used on our CyberArk Labs and makes full automation and exploitation of the informative results.
+* This code here is for the Cyber Security community teams to be used and to be implemented according to their own needs and can be a starting point for their assessments.      
+
 ## Requirements
 
 * Windows OS.
