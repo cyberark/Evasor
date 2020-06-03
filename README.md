@@ -6,7 +6,7 @@ It is very easy to use, quick, saves time and fully automated which generates fo
 # Notes
 * The original code developed and being used on our CyberArk Labs internaly, makes full automation and exploitation of the informative results.
 * The original code contains part of activation and exploitation but we removed it from here. 
-* The files codes here are empty also:
+* The files content here are empty and not contains any exploitation code also:
 <img src="https://github.com/cyberark/Evasor/blob/master/project-tree-4.png" width="1000">
 And it's for the Cyber Security community Red and Blue teams to be used and to be implemented according to their own needs and can be a starting point for their assessment objectives.     
 
