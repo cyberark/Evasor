@@ -45,3 +45,7 @@ of our development workflows, please see our [contributing guide](https://github
 ## License
 
 This repository is licensed under Apache License 2.0 - see [`LICENSE`](LICENSE) for more details.
+
+## Share Your Thoughts And Feedback
+
+For more comments, suggestions or questions, you can contact Arik Kublanov from CyberArk Labs. You can find more projects developed by us in https://github.com/cyberark/.
