@@ -24,7 +24,7 @@ Verify to exclude from the project the App.config file from the reference tree.
 run Evasor.exe from the bin folder.
 Choose your numeric option from the follwoing:
 
-<img src="https://github.com/cyberark/Evasor/blob/master/chrome_qd6KAL13in.png" width="1000">
+<img src="https://github.com/cyberark/Evasor/blob/master/project-tree-4.png" width="1000">
 
 1. Locating executable files that can be used to bypass the Application Control!
   *	 Retrieving the all running processes relative paths
