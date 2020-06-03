@@ -5,7 +5,9 @@ It is very easy to use, quick, saves time and fully automated which generates fo
 
 # notes
 * The original code developed and used on our CyberArk Labs and makes full automation and exploitation of the informative results.
-* This code here is for the Cyber Security community teams to be used and to be implemented according to their own needs and can be a starting point for their assessments.      
+* This code here:
+<img src="https://github.com/cyberark/Evasor/blob/master/chrome_qd6KAL13in.png" width="1000">
+is for the Cyber Security community teams to be used and to be implemented according to their own needs and can be a starting point for their assessments.      
 
 ## Requirements
 
