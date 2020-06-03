@@ -1,28 +1,7 @@
-# {Your project name}
-TODO: Insert brief description of your project
+# Evasor Overview
 
-## Certification level
-TODO: Select the appropriate certification level section below, and remove all others.
-
-{Community}
-![](https://img.shields.io/badge/Certification%20Level-Community-28A745?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
-
-This repo is a **Community** level project. It's a community contributed project that **is not reviewed or supported
-by CyberArk**. For more detailed information on our certification levels, see [our community guidelines](https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md#community).
-
-{Trusted}
-![](https://img.shields.io/badge/Certification%20Level-Trusted-007BFF?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
-
-This repo is a **Trusted** level project. It's been reviewed by CyberArk to verify that it will securely
-work with Conjur OSS as documented. For more detailed  information on our certification levels, see
-[our community guidelines](https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md#community).
-
-{Certified}
-![](https://img.shields.io/badge/Certification%20Level-Certified-6C757D?link=https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md)
-
-This repo is a **Certified** level project. It's been reviewed by CyberArk to verify that it will securely
-work with CyberArk DAP as documented. In addition, CyberArk offers Enterprise-level support for these features. For
-more detailed  information on our certification levels, see [our community guidelines](https://github.com/cyberark/community/blob/master/Conjur/conventions/certification-levels.md#community).
+The Evasor is an automated security assessment tool which locates  existing executables on the Windows operating system that can be used to bypass any Application Control rules.
+It is very easy to use, quick, saves time and fully automated which generates for you a report including description, screenshots and mitigations suggestions, suites for both blue and red teams in the assessment of a post-exploitation phase.
 
 ## Requirements
 
@@ -32,8 +11,8 @@ does it require?
 
 ## Usage instructions
 
-TODO: add details for how to use your project. Examples can be quite nice here. You should have
-a high level overview of the benefit of your project and its main use cases.
+Download the Evasor project and complie it.
+Verify to exclude the 
 
 ## Contributing
 
