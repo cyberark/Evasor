@@ -5,9 +5,8 @@ It is very easy to use, quick, saves time and fully automated which generates fo
 
 ## Requirements
 
-TODO: Add any requirements that apply to your project here. Which Conjur / DAP versions is it
-compatible with? Does it integrate with other tools / projects - and if so, what versions of those
-does it require?
+* Windows OS.
+* Visual studio 2017 installed.
 
 ## Usage instructions
 
