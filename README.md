@@ -12,7 +12,9 @@ does it require?
 ## Usage instructions
 
 Download the Evasor project and complie it.
-Verify to exclude the 
+Verify to exclude from project the App.config file from the reference tree.
+
+<img src="https://github.com/cyberark/KubiScan/blob/assets/kubiscan_logo.png" width="260">
 
 ## Contributing
 
