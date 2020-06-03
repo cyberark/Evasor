@@ -14,7 +14,7 @@ does it require?
 Download the Evasor project and complie it.
 Verify to exclude from the project the App.config file from the reference tree.
 
-<img src="https://github.com/cyberark/Evasor/blob/master/devenv_vTcX5EfWI2.png" width="260">
+<img src="https://github.com/cyberark/Evasor/blob/master/devenv_vTcX5EfWI2.png" width="1000">
 
 run Evasor.exe from the bin folder.
 Choose your numeric option from the follwoing:
