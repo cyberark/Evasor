@@ -4,10 +4,10 @@ The Evasor is an automated security assessment tool which locates  existing exec
 It is very easy to use, quick, saves time and fully automated which generates for you a report including description, screenshots and mitigations suggestions, suites for both blue and red teams in the assessment of a post-exploitation phase.
 
 # notes
-* The original code developed and used on our CyberArk Labs and makes full automation and exploitation of the informative results.
-* This code here:
+* The original code developed and being used on our CyberArk Labs internaly, makes full automation and exploitation of the informative results.
+* The code here:
 <img src="https://github.com/cyberark/Evasor/blob/master/project-tree-4.png" width="1000">
-is for the Cyber Security community teams to be used and to be implemented according to their own needs and can be a starting point for their assessments.      
+is for the Cyber Security community teams to be used and to be implemented according to their own needs and can be a starting point for their assessments objectives.      
 
 ## Requirements
 
