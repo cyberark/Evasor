@@ -48,10 +48,10 @@ This repository is licensed under Apache License 2.0 - see [`LICENSE`](LICENSE) 
 
 ## Share Your Thoughts And Feedback
 
-For more comments, suggestions or questions, you can contact Arik Kublanov from CyberArk Labs. You can find more projects developed by us in https://github.com/cyberark/.
+For more comments, suggestions or questions, you can contact Arik Kublanov from CyberArk Labs: Copyright © 2020 CyberArk Software Ltd. All rights reserved. Labs. You can find more projects developed by us in https://github.com/cyberark/.
 
 
 # Notes
-* The original code developed and being used on our CyberArk Labs internaly, makes full automation and exploitation of the informative results.
+* The original code developed and being used on CyberArk Labs: Copyright © 2020 CyberArk Software Ltd. All rights reserved. internaly, makes full automation and exploitation of the informative results.
 * The original code contains part of activation and exploitation but we removed it from here. 
 * The files content under the DLLs folder are empty and not contains any exploitation code also and it's for the Cyber Security community Red and Blue teams to be used and to be implemented according to their own needs and can be a starting point for their assessment objectives.  
