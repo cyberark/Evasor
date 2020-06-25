@@ -107,7 +107,7 @@ namespace Evasor
             Console.WriteLine("                                 Version 1.0.0                                       ");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("              This tool called Evasor which developed in CyberArk Labs.              ");
-            Console.WriteLine("             It's free to be use and change by the cyber security comunity.          ");
+            Console.WriteLine("             It's free to be use and change by the cyber security Community.         ");
             Console.WriteLine("        automates scans/implement different techniques to bypass Windows APP CONTROL.");
             Console.Write("            This tool suits both ");
             Console.ForegroundColor = ConsoleColor.Red;
